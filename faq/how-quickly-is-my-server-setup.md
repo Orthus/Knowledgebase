@@ -1,0 +1,2 @@
+# How quickly is my server setup?
+You server should generally only take a few seconds to provision, however it may take additional time for larger orders as we may have to allocate extra space or more servers. If your server hasn't setup in 2-3 minutes please open a Support Ticket, Call Us, or use Live Chat and we will ensure your server is setup as soon as possible!
